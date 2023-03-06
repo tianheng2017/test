@@ -1,0 +1,123 @@
+{
+	"method": "bulkExecute",
+	"types": ["(tuple,tuple)[]"],
+	"inputs": [
+		[
+			[
+				[
+					["0x5a6c8362FA53aBa89709d0E1112cA94FDdEF08E3", 1, "0x0000000000b92D5d043FaF7CECf7E2EE6aaeD232", "0xE75512aA3bec8f00434bBD6Ad8b0A3FbFF100AD6", {
+							"type": "BigNumber",
+							"hex": "0x161e"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x01"
+						}, "0x0000000000A39bb272e79075ade125fd351887Ac", {
+							"type": "BigNumber",
+							"hex": "0x01f161421c8e0000"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x6404b37b"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x6404d0ae"
+						},
+						[
+							[50, "0xD74c4760b2CDB4FBC74DFCcA370CAD5EC27a7Db9"]
+						], {
+							"type": "BigNumber",
+							"hex": "0xf248c4a091dcb37a486ad70377a65a47"
+						}, "0x01"
+					], 0, "0x0000000000000000000000000000000000000000000000000000000000000000", "0x0000000000000000000000000000000000000000000000000000000000000000", "0x000000000000000000000000000000000000000000000000000000000000001bdb188ccc3d9e3df435791abdff172cd03314b5cccb5a45c9143b8b74b5aea6a232423817382522d4c2286aa5bbeb656fed6b19def8b708088dc2565ec6ed17b3", 0, {
+						"type": "BigNumber",
+						"hex": "0xffc9ea"
+					}
+				],
+				[
+					["0xE715a9Cfa31cD79d8846d79059DeeC4A36baB05E", 0, "0x0000000000b92D5d043FaF7CECf7E2EE6aaeD232", "0xE75512aA3bec8f00434bBD6Ad8b0A3FbFF100AD6", {
+							"type": "BigNumber",
+							"hex": "0x00"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x01"
+						}, "0x0000000000A39bb272e79075ade125fd351887Ac", {
+							"type": "BigNumber",
+							"hex": "0x01f161421c8e0000"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x6404b37a"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x65e5e6fa"
+						},
+						[], {
+							"type": "BigNumber",
+							"hex": "0x25e5aec2389e0f0b6ab08bcbe9919706"
+						}, "0x01"
+					], 28, "0x27af92585ea2c2afe2ade9b659ddd20373376ef5855f312d7d7939045a6c416f", "0x336fea58c7d4ffad58c80db29033187eaa0f488bed6165b3e21b712cca06d97c", "0x0000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000001bf8f7059267d29c9db88f942e80bf34b59e1254f1053ded3bf38a14e54e0b6ef75f581612efb91ebbf7152e97fd6da07a100df2da9487b9da4bac81bac2e49de100000000000000000000000000000000000000000000000000000000000000074654a0fc5e8430b6793750a5abda5bdce6f3bb2e486a01380716c5e01e7e0b4d71d62fc06a1b326bae301e548f49127e2a48a9ca3f2b51019ff2190cf715db8a733e237818dc06c212b883f79680be270264ece3f5fae6eacb9842ba0c2d11a2f5d3c50dfe392d3062774631e2777d7956767fda6e6a304d99e6c0df5c896f32afcb9f534b8bae7448fe217921af31b9e9dfeedf6f0ca8271fe1ddce37610b6993ebcfde3ff2bc084ae1f7acc972f3cdd351720dd9f02f01020385e296314f5206236c39eb74ae43b569d704d9f2c74b26ea74dcb8879a8ac81ee1e4fd6f8f10", 1, {
+						"type": "BigNumber",
+						"hex": "0xffc9ea"
+					}
+				]
+			],
+			[
+				[
+					["0x5a6c8362FA53aBa89709d0E1112cA94FDdEF08E3", 1, "0x0000000000b92D5d043FaF7CECf7E2EE6aaeD232", "0xE75512aA3bec8f00434bBD6Ad8b0A3FbFF100AD6", {
+							"type": "BigNumber",
+							"hex": "0x1ca3"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x01"
+						}, "0x0000000000A39bb272e79075ade125fd351887Ac", {
+							"type": "BigNumber",
+							"hex": "0x01f161421c8e0000"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x64049ba0"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x6404d0ae"
+						},
+						[
+							[50, "0xD74c4760b2CDB4FBC74DFCcA370CAD5EC27a7Db9"]
+						], {
+							"type": "BigNumber",
+							"hex": "0x12885e12cf552da494eaf4cc119e41ad"
+						}, "0x01"
+					], 0, "0x0000000000000000000000000000000000000000000000000000000000000000", "0x0000000000000000000000000000000000000000000000000000000000000000", "0x000000000000000000000000000000000000000000000000000000000000001c1228ca368b3a342fc411dc8c89f68c81e9d352c4a33594948d476d26ed63bb8343247f56189f39a189d424377c8c5af8d5a07d050f01ba3ef88958b679321243", 0, {
+						"type": "BigNumber",
+						"hex": "0xffc9ea"
+					}
+				],
+				[
+					["0xE715a9Cfa31cD79d8846d79059DeeC4A36baB05E", 0, "0x0000000000b92D5d043FaF7CECf7E2EE6aaeD232", "0xE75512aA3bec8f00434bBD6Ad8b0A3FbFF100AD6", {
+							"type": "BigNumber",
+							"hex": "0x00"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x01"
+						}, "0x0000000000A39bb272e79075ade125fd351887Ac", {
+							"type": "BigNumber",
+							"hex": "0x01f161421c8e0000"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x64049b9f"
+						}, {
+							"type": "BigNumber",
+							"hex": "0x65e5cf1f"
+						},
+						[], {
+							"type": "BigNumber",
+							"hex": "0x885925a7b5e8e4f1153160bb89be06a1"
+						}, "0x01"
+					], 27, "0x424e2bb50e4a71e179a7971190c9813bba20728a5c2ffe61b121f815ad83f40a", "0x686b4bfbd8f98c96af9a0770d3fb84dfcca27a96ecef9251916a70df0b7d3d12", "0x0000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000001b49f60105afa248861b6f5ba0f09749a1b12ee0901294cff26fbc4bb6a8c21c562311b6e95225f47dc1bb6f2d4006fdfe353b9f9915bf9e5691c654be22d03be200000000000000000000000000000000000000000000000000000000000000075e271f46a9982c5ff1bbb298f2f8365b38d3008fb8ef2c25b98bd62dec89d17ee5f395191e9a1c3a00077e6ae3da5950921392273de2ee2a743595ac5b13cf8aab6d1ff510dff86fe7e01d2d51810b3c26e8cd78dbad712742a297f6ddc0602f7ba128d9c5d80d8cf8a6c640e9d89e33e81af3c7574ada597ce7493a1b48db04885e5024e572f552c985e22fe5893abcacd022e135d26bdb4e063aeea0e7ba7bff604db26a79f9e55cda1aaac1a4e090e905ac9f3b60d50ad496b91330be3b56aae9a85010f52a802bdeb71ab7891ca6f69ec8efc102ab66f0a12e2f8e0ea935", 1, {
+						"type": "BigNumber",
+						"hex": "0xffc9ea"
+					}
+				]
+			]
+		]
+	],
+	"names": [
+		["executions", ["sell", "buy"]]
+	]
+}
